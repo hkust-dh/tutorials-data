@@ -30,4 +30,14 @@ Happy learning! 🎉
 
 ---
 
+👉 **Data file**: [notebook_hkust-azure-openai.ipynb](https://github.com/hkust-dh/tutorials-data/blob/main/notebook_hkust-azure-openai.ipynb)
+
+👉 **Data file**: [data_rse-page-33952-scientific-illustrations.xlsx](https://github.com/hkust-dh/tutorials-data/blob/main/data_rse-page-33952-scientific-illustrations.xlsx)
+
+**For the use in the following tutorials:**
+
+-   [How To Use HKUST Azure OpenAI API Key With Python (With Sample Code And Use Case Examples)](https://digitalhumanities.hkust.edu.hk/tutorials/how-to-use-hkust-azure-openai-api-key-with-python-with-sample-code-and-use-case-examples/)
+
+---
+
 _The HKUST Digital Humanities Initiative is a collaborative community aimed at bringing together faculty, library, and students to explore digital humanities skills and develop innovative digital projects. It bridges the gap between science and the humanities through digital methods and practices._
