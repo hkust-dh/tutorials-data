@@ -40,4 +40,12 @@ Happy learning! 🎉
 
 ---
 
+👉 **Data file**: [notebook_speech-to-text_Cantonese.ipynb](https://github.com/hkust-dh/tutorials-data/blob/main/notebook_speech-to-text_Cantonese.ipynb)
+
+**For the use in the following tutorials:**
+
+-   [Transcribe Cantonese Speech to Text: with Code Samples and Automated Batch Processing Techniques](https://digitalhumanities.hkust.edu.hk/tutorials/transcribe-cantonese-speech-to-text-with-code-samples-and-automated-batch-processing-techniques/)
+
+---
+
 _The HKUST Digital Humanities Initiative is a collaborative community aimed at bringing together faculty, library, and students to explore digital humanities skills and develop innovative digital projects. It bridges the gap between science and the humanities through digital methods and practices._
